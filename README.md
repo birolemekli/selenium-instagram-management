@@ -31,3 +31,5 @@
 3. Max 150 people per day are recommended to unfollow.
 4. If there is a message that cannot be deleted, the application will directly stream to the next message.
 5. In every error, the driver is turned off. It never leaves any garbage behind.
+
+[![Then you can do this with Python and Selenium Mobile Emulator.](http://img.youtube.com/vi/YbY02YCBnXA/0.jpg)](http://www.youtube.com/watch?v=YbY02YCBnXA)
