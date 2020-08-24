@@ -11,7 +11,7 @@
 `$ pip install -r requirements.txt`
 
 ###### Let's download Chromedriver and make necessary settings.
-`https: // chromedriver.chromium.org / downloads`
+`https://chromedriver.chromium.org/downloads`
 
 - Parameters to be set
      - chromedriver_path: Driver location specified 
